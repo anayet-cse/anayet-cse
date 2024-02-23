@@ -20,7 +20,7 @@ I'm Anayet from Bangladesh, as a recent Computer Engineering graduate, my goal i
 ## Online Profile:
 <p align="left">
 <a href="https://linkedin.com/in/anayet-ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anayet-ullah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/anayet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anayet/" height="30" width="40" /></a>
+<a href="https://leetcode.com/anayet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anayet" height="30" width="40" /></a>
 <a href="https://medium.com/@anayetullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anayetullah" height="30" width="40" /></a>
 </p>
 
